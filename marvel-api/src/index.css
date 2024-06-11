@@ -1,0 +1,6 @@
+body {
+  background-image: url('./assets/fondo.jpg'); /* Asegúrate de tener la imagen en tu proyecto */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Hace que la imagen de fondo se mantenga fija al hacer scroll */
+}
